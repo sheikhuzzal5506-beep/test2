@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <defs>
+    <radialGradient id="field" cx="0" cy="0" r="1" gradientTransform="matrix(363 243 -256 383 492 328)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".8" />
+      <stop offset="1" stop-color="#f2f1ec" stop-opacity="0" />
+    </radialGradient>
+    <filter id="soft" x="313" y="114" width="441" height="444" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="1.4" />
+    </filter>
+  </defs>
+  <ellipse cx="487" cy="334" rx="397" ry="322" fill="url(#field)" />
+  <g stroke="#bfc1b8" stroke-opacity=".54" stroke-width="1.2">
+    <path d="m102 417 94-101 100 36 58-141 99 42 63-122 73 74 100-32 66 111 70-38" />
+    <path d="m196 316 48 126 52-90 87 111 70-210 104 172 68-52 84 73 45-134" />
+    <path d="m296 352 77 111 70-210 45-122m-70 210 58 88 108 40 123-67m-294-253-6 109m106 101 116-117 100 79" />
+    <path d="m102 417 142 25 115-5 87 34 108-16 153-2 84-134m-394-108 70 210 125-38 68-52" />
+  </g>
+  <g stroke="#71896f" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m102 417 94-101 100 36 58-141 99 42 63-122" />
+  </g>
+  <g fill="#181917">
+    <circle cx="244" cy="442" r="4" /><circle cx="296" cy="352" r="3.5" />
+    <circle cx="373" cy="463" r="3" /><circle cx="457" cy="253" r="4" />
+    <circle cx="561" cy="425" r="3.3" /><circle cx="629" cy="373" r="4.5" />
+    <circle cx="697" cy="321" r="3" /><circle cx="781" cy="394" r="4.2" />
+    <circle cx="512" cy="165" r="3.2" /><circle cx="585" cy="239" r="3.4" />
+    <circle cx="660" cy="207" r="4.1" /><circle cx="722" cy="279" r="3" />
+    <circle cx="437" cy="375" r="3" /><circle cx="517" cy="544" r="3.8" />
+    <circle cx="345" cy="211" r="3.5" /><circle cx="196" cy="316" r="3.5" />
+    <circle cx="102" cy="417" r="5.4" /><circle cx="354" cy="211" r="6.7" />
+    <circle cx="453" cy="253" r="5.4" />
+  </g>
+  <g fill="#73786e" fill-opacity=".7">
+    <circle cx="154" cy="286" r="1.8" /><circle cx="265" cy="175" r="2.2" />
+    <circle cx="318" cy="507" r="2.2" /><circle cx="409" cy="149" r="2" />
+    <circle cx="536" cy="296" r="2" /><circle cx="635" cy="481" r="1.8" />
+    <circle cx="728" cy="452" r="2.2" /><circle cx="836" cy="316" r="1.9" />
+    <circle cx="484" cy="512" r="2" /><circle cx="763" cy="151" r="1.7" />
+    <circle cx="399" cy="557" r="2.1" /><circle cx="227" cy="543" r="1.8" />
+  </g>
+  <g filter="url(#soft)" opacity=".18" fill="#789375">
+    <circle cx="102" cy="417" r="14" /><circle cx="354" cy="211" r="18" />
+    <circle cx="453" cy="253" r="14" />
+  </g>
+  <g fill="#f2f1ec" stroke="#181917" stroke-width="1.6">
+    <circle cx="102" cy="417" r="7" /><circle cx="196" cy="316" r="5.5" />
+    <circle cx="296" cy="352" r="5.5" /><circle cx="354" cy="211" r="8.5" />
+    <circle cx="453" cy="253" r="7" />
+  </g>
+  <circle cx="417" cy="170" r="10" fill="#dfe8d9" stroke="#71896f" stroke-width="1.5" />
+  <circle cx="417" cy="170" r="3.2" fill="#71896f" />
+</svg>
